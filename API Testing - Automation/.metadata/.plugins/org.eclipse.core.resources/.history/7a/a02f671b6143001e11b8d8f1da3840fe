@@ -1,0 +1,14 @@
+package HttpsRequest;
+/*
+given()
+-Content type, header, cookies, Add Auth etc
+when()
+-get,post,put,delete
+then()
+-Validation
+*/
+
+public class BasicRequest {
+	
+
+}

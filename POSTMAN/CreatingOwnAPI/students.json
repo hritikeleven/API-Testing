@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Hritik Chauhan",
+      "location": "India",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium",
+        "Performance Testing"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kim",
+      "location": "US",
+      "phone": "98876543213",
+      "courses": [
+        "Python",
+        "Appium"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "165498765",
+      "courses": [
+        "C#",
+        "RestAPI"
+      ]
+    },
+    {
+      "name": "Virat Ckholi",
+      "location": "India",
+      "phone": "8273657712",
+      "courses": [
+        "Cover Drive",
+        "Pull Shot",
+        "Backfoot Punch"
+      ],
+      "id": 4
+    },
+    {
+      "name": "Rohit Sharma",
+      "location": "India",
+      "phone": "9456690102",
+      "courses": [
+        "Pull Shot",
+        "Backfoot Punch",
+        "Sweep Shot"
+      ],
+      "id": 5
+    }
+  ]
+}

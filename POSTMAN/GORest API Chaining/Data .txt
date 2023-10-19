@@ -1,0 +1,15 @@
+HostName - https://gorest.co.in/
+Accesstoken - Primary Token - {0048c695d9043d8c3afbe08a835d5271242f18b298009d9dff0494fa4b754c7e}
+Endpoints :-
+Get - /public/v2/users/1746
+Post - /public/v2/users
+Put - /public/v2/users/1746
+Delete - /public/v2/users/1746
+
+Request Body 
+{
+"name":"Cristiano Ronaldo",
+"gender":"male",
+"email":"Goat@Gmail.com",
+"status":"active"
+}

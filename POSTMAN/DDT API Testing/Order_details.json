@@ -1,0 +1,26 @@
+[
+ {
+   "BookID": 1,
+   "CustomerName": "Benzema Singh"
+ },
+ {
+   "BookID": 3,
+   "CustomerName": "Ronaldo Chaurasia"
+ },
+ {
+   "BookID": 3,
+   "CustomerName": "Gareth Rathore"
+ },
+ {
+   "BookID": 4,
+   "CustomerName": "Casemiro Yadav"
+ },
+ {
+   "BookID": 5,
+   "CustomerName": "Sergio Chaudary"
+ },
+ {
+   "BookID": 6,
+   "CustomerName": "Lionel Anand"
+ }
+]

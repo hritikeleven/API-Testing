@@ -1,0 +1,7 @@
+command =java -jar {FileNAme.jar}
+
+Host - http://localhost:8080/
+
+End points-
+Post - uploadFile
+Post - uploadMultipleFiles

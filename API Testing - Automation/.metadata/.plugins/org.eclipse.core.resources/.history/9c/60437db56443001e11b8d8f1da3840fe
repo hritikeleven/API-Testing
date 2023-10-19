@@ -1,0 +1,39 @@
+package HttpsRequest;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured.*;
+import io.restassured.matcher.RestAssuredMatchers.*;
+import org.hamcrest.Matchers.*;
+
+/*
+given()
+-Content type, header, cookies, Add Authorization etc
+when()
+-get,post,put,delete
+then()
+-Validation of status code,response validation
+*/
+/*
+ * Get user - 
+ * https://reqres.in/api/users/2
+ * Post USer -
+ * 
+ * Put User -
+ * 
+ * Delete User - 
+ * 
+ */
+
+public class BasicRequest {
+	@Test
+	void getUser() {
+		given()
+		
+		https://reqres.in/api/users/2
+		.when()
+		
+		.than()
+	}
+
+}

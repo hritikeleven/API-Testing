@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://wadl.dev.java.net/2009/02">
+  <doc xml:lang="en" title="https://restcountries.com"/>
+  <resources base="https://restcountries.com">
+    <resource path="v3.1/all" id="FetchAllRecord">
+      <doc xml:lang="en" title="FetchAllRecord"/>
+      <method name="GET" id="All 1">
+        <doc xml:lang="en" title="All 1"/>
+        <request/>
+        <response status="200">
+          <representation mediaType="application/json"/>
+        </response>
+      </method>
+    </resource>
+    <resource path="v3.1/name/India" id="SearchbyCountry">
+      <doc xml:lang="en" title="SearchbyCountry"/>
+      <method name="GET" id="SearchByCountryName">
+        <doc xml:lang="en" title="SearchByCountryName"/>
+        <request/>
+        <response status="200">
+          <representation mediaType="application/json"/>
+        </response>
+      </method>
+    </resource>
+    <resource path="v3.1/capital/Moscow" id="SearchbyCapital">
+      <doc xml:lang="en" title="SearchbyCapital"/>
+      <method name="GET" id="Method 1">
+        <doc xml:lang="en" title="Method 1"/>
+        <request/>
+        <response status="200">
+          <representation mediaType="application/json"/>
+        </response>
+      </method>
+    </resource>
+  </resources>
+</application>
